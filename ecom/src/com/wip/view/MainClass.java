@@ -11,7 +11,7 @@ public class MainClass {
 
 	public static void main(String[] args) {
 
-		System.out.println("Welcome to Ecom - App !!");
+		System.out.println("Welcome to Ecommerce - App !!");
 		ProductInterface pc = new ProductController();
 		Scanner sc = new Scanner(System.in);
 		String continueChoice=null;
